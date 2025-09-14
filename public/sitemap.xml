@@ -4,4 +4,16 @@
     <loc>https://hitendra-xlearning-hub.netlify.app/</loc>
     <priority>1.00</priority>
   </url>
+  <url>
+    <loc>https://hitendra-xlearning-hub.netlify.app/about.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hitendra-xlearning-hub.netlify.app/courses.html</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://hitendra-xlearning-hub.netlify.app/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
 </urlset>
